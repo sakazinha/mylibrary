@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrabalhoAvancada</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_list_header_txt" translatable="false">Ícone para limpar campo de busca</string>
+</resources>

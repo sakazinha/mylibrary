@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "5365664196",
+    "firebase_url": "https://tabalho-avancada-default-rtdb.firebaseio.com",
+    "project_id": "tabalho-avancada",
+    "storage_bucket": "tabalho-avancada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5365664196:android:ad0947740bdbf6da8bbc91",
+        "android_client_info": {
+          "package_name": "com.example.mapasteste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU7dM48s2RLHYu6vbh7JO4m0x06l7w6wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5365664196:android:edb5b8e5d07221eb8bbc91",
+        "android_client_info": {
+          "package_name": "com.example.trabalhoavancada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU7dM48s2RLHYu6vbh7JO4m0x06l7w6wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
